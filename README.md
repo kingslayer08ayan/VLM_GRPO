@@ -14,8 +14,8 @@ with **CLIP-based rewards**, deployed using **FastAPI + Streamlit**.
 
 ## Quick Start (Docker)
 - docker compose up --build
-UI: http://localhost:8501
-API: http://localhost:8000
+- UI: http://localhost:8501
+- API: http://localhost:8000
 
 ## Training
 python training/phase3_5_grpo.py
@@ -25,4 +25,5 @@ python training/phase3_eval.py
 ## Notes
 - models are *not* stored in repo
 - tested on single RTX 3050 GPU locally
+
 
