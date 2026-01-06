@@ -6,7 +6,7 @@ with **CLIP-based rewards**, deployed using **FastAPI + Streamlit**.
 # 🖼️ VLM-GRPO: Vision-Language Model with GRPO Fine-Tuning
 
 <p align="center">
-  <img src="assets/demo.gif" width="800"/>
+  <img src="assets/demo1.gif" width="800"/>
 </p>
 
 ## Features
