@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+sentencepiece
+pillow
+numpy
+ftfy
+regex
+tqdm
+python-multipart
+git+https://github.com/openai/CLIP.git
+fastapi
+uvicorn[standard]

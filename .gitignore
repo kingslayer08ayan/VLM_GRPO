@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Conda / venv
+.env/
+.venv/
+venv/
+
+# PyTorch / HF
+models/
+*.pt
+*.bin
+*.safetensors
+.cache/
+.huggingface/
+
+# Data
+data/
+*.json
+
+# Docker
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

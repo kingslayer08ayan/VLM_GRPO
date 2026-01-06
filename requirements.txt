@@ -1,0 +1,7 @@
+transformers
+torch
+torchvision
+datasets
+numpy
+pandas
+clip
